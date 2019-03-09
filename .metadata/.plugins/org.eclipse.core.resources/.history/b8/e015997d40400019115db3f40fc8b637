@@ -1,0 +1,8 @@
+package assets.dextermod.textures.item;
+
+public class Snippet {
+	public static void main(String[] args) {
+		apple.png
+	}
+}
+

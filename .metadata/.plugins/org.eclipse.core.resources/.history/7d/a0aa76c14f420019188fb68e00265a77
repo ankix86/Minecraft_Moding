@@ -1,0 +1,11 @@
+package com.dexter_mode.entity;
+
+import net.minecraft.entity.monster.EntityEvoker;
+
+public class entityInit {
+	
+	public static void registerEntity() {
+		EntityEvoker entityEvoker;
+	}
+
+}

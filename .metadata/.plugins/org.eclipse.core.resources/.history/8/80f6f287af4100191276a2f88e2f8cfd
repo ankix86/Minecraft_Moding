@@ -1,0 +1,11 @@
+package com.dexter_mode.item;
+
+import net.minecraft.item.ItemFood;
+import net.minecraft.item.ItemStack;
+import net.minecraft.util.FoodStats;
+import net.minecraftforge.client.model.b3d.B3DModel.Bone;
+
+public class testItem {
+
+	public static ItemStack itemStack;
+}

@@ -1,0 +1,10 @@
+package com.dexter_mode.item;
+
+
+import net.minecraft.item.ItemStack;
+
+
+public class testItem {
+
+	public static ItemStack itemStack;
+}

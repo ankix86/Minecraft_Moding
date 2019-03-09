@@ -1,0 +1,9 @@
+package com.dexter_mode.item;
+
+
+import net.minecraft.entity.passive.EntityPig;
+
+public class testItem {
+
+	public static EntityPig Entity;
+}
