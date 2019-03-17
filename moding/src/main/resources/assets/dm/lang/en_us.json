@@ -3,5 +3,15 @@
 	"item.dm.tomato": "Tomato",
 	"item.dm.masala_dosa": "Masala Dosa",
 	"item.dm.vadapav": "Vadapav",
-	"item.dm.roti": "Roti"
+	"item.dm.roti": "Roti",
+	"item.dm.black_wood": "Test Item",
+	"item.dm.green_chillie": "Green Chillie",
+	"item.dm.red_chillie": "Red Chillie",
+		
+	"block.dm.pav_bhaji": "Pav Bhaji",
+	"block.dm.cake": "Trap Cake",
+	"block.dm.black_wood": "Back Wood",
+	"itemGroup.indianFood": "Indian Food",
+	
+	"block.dm.chillie_plant": "Chille Plant"
 }

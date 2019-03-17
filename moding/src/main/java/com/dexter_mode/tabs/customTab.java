@@ -1,13 +1,18 @@
 package com.dexter_mode.tabs;
 
-import net.minecraft.client.Minecraft;
-import net.minecraft.client.gui.inventory.CreativeCrafting;
+import com.dexter_mode.item.ItemList;
+import net.minecraft.item.ItemGroup;
+import net.minecraft.item.ItemStack;
 
-public class customTab extends CreativeCrafting {
 
-	public customTab(Minecraft p_i46314_1_) {
-		super(p_i46314_1_);
-		
+public class customTab extends ItemGroup  {
+
+	public customTab(int index, String label) {
+		super(12,label);
 	}
-
+	@Override
+	public ItemStack createIcon() {
+		// TODO Auto-generated method stub
+		return new ItemStack(ItemList.redChillie);
+	}
 }

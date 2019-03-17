@@ -1,8 +1,0 @@
-package com.dexter_mode.foodItem;
-
-import net.minecraft.item.ItemFood;
-
-public class foodItem {
-
-	public static ItemFood itemFood;
-}

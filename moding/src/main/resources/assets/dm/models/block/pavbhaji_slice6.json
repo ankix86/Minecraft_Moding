@@ -1,0 +1,22 @@
+{
+    "textures": {
+        "particle": "dm:block/pavbhaji_side",
+        "bottom": "dm:block/pavbhaji_bottom",
+        "top": "dm:block/pavbhaji_top",
+        "side": "dm:block/pavbhaji_side",
+        "inside": "dm:block/pavbhaji_inner"
+    },
+    "elements": [
+        {   "from": [ 13, 0, 1 ],
+            "to": [ 15, 8, 15 ],
+            "faces": {
+                "down":  { "texture": "#bottom", "cullface": "down" },
+                "up":    { "texture": "#top" },
+                "north": { "texture": "#side" },
+                "south": { "texture": "#side" },
+                "west":  { "texture": "#inside" },
+                "east":  { "texture": "#side" }
+            }
+        }
+    ]
+}

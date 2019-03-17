@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "dm:block/redchillie_plant_stage1"
+    }
+}
